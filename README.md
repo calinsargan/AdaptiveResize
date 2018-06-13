@@ -41,3 +41,4 @@ $this->helper('adaptiveResize/image')->init($this->getProduct())
 
 Resize logic created by [Leon Smith](http://github.com/leonsmith)
 http://2ammedia.co.uk/web-design/magento-adaptive-resize-resize-to-best-fit
+
